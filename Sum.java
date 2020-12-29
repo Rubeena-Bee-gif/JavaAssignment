@@ -7,3 +7,4 @@ public class Sum {
 
       System.out.println("Sum of these numbers: "+sum);
    }
+}
